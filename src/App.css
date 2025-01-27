@@ -1,0 +1,27 @@
+
+
+/* Style for the main container */
+.app-container {
+    background-color: #133808;  /* Dark Green Background */
+    color: white;               /* White text */
+    min-height: 100vh;          /* Full screen height */
+    display: flex;              
+    justify-content: center;    /* Center content horizontally */
+    align-items: center;        /* Center content vertically */
+  }
+  
+  /* General body styling for black text and white elements */
+  body {
+    background-color: #000000;  /* Black background for the whole body */
+    color: white;               /* White text color for the whole page */
+  }
+  
+  /* Optional: Style to remove any padding/margins from the body */
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+
+  
