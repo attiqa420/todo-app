@@ -6,7 +6,7 @@ A simple and responsive to-do list application built with **React** and **Vite**
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live app]([https://yourusername.github.io/todo-app](https://attiqa420.github.io/todo-app/))
+🔗 [Click here to view the live app](https://attiqa420.github.io/todo-app/)
 
 > Replace the above link with your actual GitHub Pages URL.
 
